@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain_groq
+langchain_huggingface
+faiss-cpu
+transformers
+flask
+bs4
