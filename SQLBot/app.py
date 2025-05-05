@@ -48,4 +48,3 @@ if user_query:
         #streamlit_callback_handler.StreamlitCallbackHandler.set_streamlit_info(st)
         response = agent.run(user_query)
         st.write(response)
-        ###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
